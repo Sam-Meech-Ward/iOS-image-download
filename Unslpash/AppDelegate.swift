@@ -8,6 +8,8 @@
 
 import UIKit
 
+let accessKey = "bbc33cc9f86e189e1387e31a57dbd74a2dba4a5f4540f7a0dbcb599fd72f61f2"
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
